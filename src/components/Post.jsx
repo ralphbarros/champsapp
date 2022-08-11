@@ -18,8 +18,8 @@ export function Post() {
             <div className={styles.content}>
                 <p>Texto do P</p>
                 <p>Texto do P2</p>
-                <p><a href="www.etc"></a></p>
-                <p><a href="com#"></a></p>
+                <p><a href="www.etc"> Texto do link</a></p>
+                <p><a href="com#">Texto da hastag</a></p>
             </div>
         </article>
     )
